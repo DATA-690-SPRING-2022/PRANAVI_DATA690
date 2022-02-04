@@ -1,3 +1,4 @@
+![](PIC.jpeg)
 ## GADIKOPPULA PRANAVI
 +91-9398641856 | pranavigadikoppula@gmail.com
 
