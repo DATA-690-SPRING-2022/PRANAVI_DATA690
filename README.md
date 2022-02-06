@@ -52,7 +52,7 @@ String Similarity Search-A hash based Approach is a method which is helpful in d
 
 **ACHIEVEMENTS AND CERTIFICATIONS** <br>
    -Certificate of participation in Android studio fundamentals Workshop. <br>
-   - Certifications on participations of NSS cell events. <br>
+   -Certifications on participations of NSS cell events. <br>
    -Certificate in python for everybody in coursera. <br>
    -Scored good marks in JEE MAINS <br>
    -Won in many inter school Competitions <br>
