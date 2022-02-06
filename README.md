@@ -8,14 +8,14 @@
 **EDUCATIONAL BACKGROUND**
 
 1. CMR INSTITUTE OF TECHNOILOGY,HYDERABAD(2017-2021)
--Bachelor of Technology in Computer Science and Engineering
-            -cummulative GPA-9.2 <br>
+- Bachelor of Technology in Computer Science and Engineering
+            - cummulative GPA-9.2 <br>
 2. SRI CHAITANYA JUNIOR COLLEGE, HYDERABAD (2015-2017)
--Higher Secondary School Certificate (M.P.C)
--Overall percentage-95.7% <br>
+- Higher Secondary School Certificate (M.P.C)
+- Overall percentage-95.7% <br>
 3. KRISHNAVENI HIGH  SCHOOL,MANCHERIAL
-Secondary School Certificate
-Overall GPA-9.5
+- Secondary School Certificate
+- Overall GPA-9.5
 
 
 **TECHNICAL SKILLS**
