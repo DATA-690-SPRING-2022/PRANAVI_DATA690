@@ -44,29 +44,29 @@ Drowsiness detection is a safety technology that can prevent accidents  that are
 String Similarity Search-A hash based Approach is a method which is helpful in dna-      sequencing, error-tolerant query auto-completion  and data cleaning  needed in data base, data Warehouse and data mining. <br>
 **PARTICIPATION**
 
-•	Participated in NSS EVENT  in the colleges <br>
-•	Participated in many Events related to technology <br>
-•	Actively participated in cultural events in school and colleges <br>
-•	Worked as a Volunteer in HEAL ORGANISATION a NGO based organization <br>
-•	Worked as an intern in Whishworks a IT based Company. <br>
+-Participated in NSS EVENT  in the colleges <br>
+-Participated in many Events related to technology <br>
+-Actively participated in cultural events in school and colleges <br>
+-Worked as a Volunteer in HEAL ORGANISATION a NGO based organization <br>
+-Worked as an intern in Whishworks a IT based Company. <br>
 
-**ACHIEVEMENTS AND CERTIFICATIONS** 
-•	   Certificate of participation in Android studio fundamentals Workshop. <br>
-•	   Certifications on participations of NSS cell events. <br>
-•	   Certificate in python for everybody in coursera. <br>
-•	   Scored good marks in JEE MAINS <br>
-•	   Won in many inter school Competitions <br>
+**ACHIEVEMENTS AND CERTIFICATIONS** <br>
+   -Certificate of participation in Android studio fundamentals Workshop. <br>
+   - Certifications on participations of NSS cell events. <br>
+   -Certificate in python for everybody in coursera. <br>
+   -Scored good marks in JEE MAINS <br>
+   -Won in many inter school Competitions <br>
 
 **PERSONAL DETAILS**
 
-●  Date of Birth                : 	   28-02-2000<br>
-●  Father’s Name             :        G. Muralidhar<br>
-●  Mother’s Name           :        G. karuna sree<br>
-●  Current Address  	     :	  h.no-4-120/2, jhanmabhoomi nagar , mancherial<br>
-●  Hobbies              	     :        yoga, drawing , cooking,writing. <br>
-●  Nationality         	     :        Indian <br>
-●  Languages Known       : 	  English, Hindi, Telugu <br>
-●  Any kind of disability  : 	  NO <br>
+-Date of Birth                : 	   28-02-2000<br>
+  -Father’s Name             :        G. Muralidhar<br>
+ -Mother’s Name           :        G. karuna sree<br>
+-Current Address  	     :	  h.no-4-120/2, jhanmabhoomi nagar , mancherial<br>
+ -Hobbies              	     :        yoga, drawing , cooking,writing. <br>
+-Nationality         	     :        Indian <br>
+-Languages Known       : 	  English, Hindi, Telugu <br>
+-Any kind of disability  : 	  NO <br>
 
 
 
