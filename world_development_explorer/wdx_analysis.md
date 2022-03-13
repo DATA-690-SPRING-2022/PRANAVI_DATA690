@@ -23,7 +23,7 @@ topic-Education
      
 indicators
      
-1. percentage of female population age 15-19 with no education:
+1.percentage of female population age 15-19 with no education:
           
 In total population how many female's of age 15-19 having no education.
      
@@ -39,7 +39,7 @@ topic:Social Development
      
 indicators
      
-1. Labor force participation rate,female: 
+1.Labor force participation rate,female: 
 
 females population who works as labours
      
@@ -60,10 +60,25 @@ female population having no work
   
   ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/piechart.png)
   
+  In this piechart the female population of 15+ being uneducatedis  is 62.4% where as india is 37.6%
   
-  
-  ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/linearregression.png)
+ ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/linearregression.png)
+ 
+  In this we get to see how female workers are enforced to work as labours has they don't have education and the linear regreesion graph shows the relation
+ 
   ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/heatmap.png)
+  
+  This is the heat map which shows the relation between the female of age 15+ working as labours and the unemployment for females to the female of age 15+- having no education .
+  here has there is no education available people are not getting any work oppurtunities if they get so they work as labours.
+  
+  # conclusion:
+  
+There can be several factors for not having education has there criteria while i was exploring the wdx i have found that some of the reasons are the countries population as there is huge population it is really harder to provide education for every individual . The other reasons are countries economy when afghanisthan economy is compared to india it was less so this might be the reason why afghanisthan is behind india. The other reason is as there are very less educated people in the past years the amount of teachers are very less to teach .One of the reason is afganisthan as other source of income rather than through education it is more dependent on trading.
+The observations we get to know through this is if there is no education they are more into working as labour and the female education ratio is very less when compared to total population  as there are less educated womans the employment of womans are very less.
+
+
+  
+  
      
      
      
