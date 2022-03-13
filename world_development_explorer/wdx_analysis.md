@@ -16,39 +16,59 @@ Countries Analyzed: India,Afganisthan
 
 Timespan of Data: 2010-2018
 
+
 Topics & Indicators:
      
-     topic-Education 
+topic-Education 
      
-     indicators
+indicators
+     
+1. percentage of female population age 15-19 with no education:
+          
+In total population how many female's of age 15-19 having no education.
+     
+2.percentage of population age 15-19 with no education:
+    
+Total population of age 15-19 without education
+     
+3.percentage of female population age 15+ with no education:
+
+female population with age 15+ having no eduaction
+     
+topic:Social Development
+     
+indicators
+     
+1. Labor force participation rate,female: 
+
+females population who works as labours
+     
+2.unemployment female population:
+
+female population having no work
+     
+    
+## A glace at graphs
+  
+  ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/totalpopulation.png)
+  
+  The graph is a bar chart which is helpful in comparing the countries.In this we can observe that afganisthan has low education in the total population when compared to india
+
+  ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/noeducation_female_15.png)
+  
+  In this graph the female population having no education is more in afganisthan than india
+  
+  ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/piechart.png)
+  
+  
+  
+  ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/linearregression.png)
+  ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/heatmap.png)
      
      
-     1. percentage of female population age 15-19 with no education:
      
      
      
-     2.percentage of population age 15-19 with no education:
-     
-     
-     
-     3.percentage of female population age 15+ with no education
-     
-     
-     
-     topic:Social Development
-     
-     indicators
-     
-     1. Labor force participation rate,female:
-     
-     
-     
-     2.unemployment female population:
-     
-     
-     
-     
-     ![](totalpopulation.png)
      
      
      
