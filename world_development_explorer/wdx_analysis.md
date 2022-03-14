@@ -51,15 +51,18 @@ indicators
 ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/total_populationnoed_bar.png)
 Here in the bar graph we get to see 8 different countries having percantage of population age 15-19 no education . Among the 8 countries afghanisthan,pakisthan has the low literacy where as bangladesh has good no of percentage of people having education
 ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/pie.png)
-In the pie chartwe can see female population having age 15+has no education even in female population having no education the afghanisthan stand sin the first place
-![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_develment_explorer/line.png)
+In the pie chartwe can see female population having age 15+has no education even in female population having no education the afghanisthan stand in the first place where as here  the bangladesh has low amount of female having education.china has more female education when compared to other education
+![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/line.png)
+Here,Afghanisthan has the low school enrollment,gender parity index.India has increaded in primary school enrollment over the years.Bangladesh maintained the same.south africa maintained the stability and got little fluctuation in the year 2015.Nepal has becoming lower in primary school enrollment.
 ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/scatter.png)
+In the scatter plot the x axis represents percentage of female population age 15+ with no education and the y-axis represents labor force participation rate,female of age(15-64)
 ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/linear.png)
+This graph represents the same as sctter plot but it shows in a linear regreesion format
 ![](https://github.com/Pranavigadikoppula/PRANAVI_DATA690/blob/main/world_development_explorer/heatmap.png)
-  
+heat map shows the correlations here we have taken 3 factors the factors of scatter plot and unemployment female population
+# conclusion:
 
-  
-  # conclusion:
+In conclusion, the education and social development are inter linked when compared to the graphs afghanisthan has low literacy rate when it comes to no education of total population and the female poipulation of age 15+ having no education. Though bangladesh has education better it has low female education rate. When considering the primary school enrollment there were many changes united states maintained the stability every where . When coming to employment factors the female unemployment was more in the countries which has low education for females.labor force participation in female china and united states hasgood amount of workers . so the reasons for this can be not knowing the importance of education,The rules associated with the countries, The wealth of the countries and several other countries. The graphs shows which countries has good education among total population,females having eduvcation, primary school enrollment and the labor force participation of females and the unemployment of total population
   
 
   
