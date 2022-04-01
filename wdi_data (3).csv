@@ -1,0 +1,78 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,37.2,BAR.NOED.1519.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+1,2010,0.1,BAR.NOED.1519.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2010,0.47000000000000003,BAR.NOED.1519.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2010,8.13,BAR.NOED.1519.ZS,IND,India,South Asia,Lower middle income,IBRD
+4,2010,5.29,BAR.NOED.1519.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+5,2010,28.33,BAR.NOED.1519.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+6,2010,0.38,BAR.NOED.1519.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+7,2010,0.17,BAR.NOED.1519.ZS,USA,United States,North America,High income,Not classified
+8,2010,0.6798099875,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+9,2011,0.7125800252000001,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+10,2012,0.7202600241,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+11,2013,0.7028599977000001,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+12,2014,0.6982499957,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+13,2015,0.6808099747,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+14,2016,0.6793699861,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+15,2017,0.6761699915,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+16,2018,0.6669099927000001,SE.ENR.PRIM.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+17,2010,1.0625100136,SE.ENR.PRIM.FM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+18,2017,1.0717600584,SE.ENR.PRIM.FM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+19,2018,1.0747100115000001,SE.ENR.PRIM.FM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+20,2010,0.9826800227,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+21,2011,0.9848600030000001,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+22,2012,0.9889000058,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+23,2013,0.9976099730000001,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+24,2014,1.0007200241,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2015,1.0024600029,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+26,2016,1.0050899982,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+27,2017,1.0094799995,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+28,2018,1.0113500357,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+29,2010,1.0279699564,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+30,2011,1.0352499485,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+31,2012,1.0388300419,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+32,2013,1.1181099415,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+33,2014,1.1139299870000001,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+34,2015,1.1161799431,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+35,2016,1.1610399485,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+36,2017,1.1472500563,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+37,2010,1.0761699677,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+38,2011,1.0815800428,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+39,2012,1.0879100561,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+40,2013,1.0820300579,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+41,2014,1.0738099813,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+42,2015,1.0618100166,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+43,2016,1.0518200397,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+44,2017,1.0181200504,SE.ENR.PRIM.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+45,2010,0.8531799912,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+46,2011,0.8595100045,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+47,2012,0.8716499805,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+48,2013,0.8697000146,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+49,2014,0.8535000086000001,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+50,2015,0.8559299707,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+51,2016,0.8539800048,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+52,2017,0.8630099893000001,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+53,2018,0.8444100022000001,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+54,2010,0.9617099762,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+55,2011,0.9595500231,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+56,2012,0.9582399726,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+57,2013,0.9578300118,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+58,2014,0.9612399936,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+59,2015,0.9333800077000001,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+60,2016,0.9680399895,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+61,2017,0.9666699767,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+62,2018,0.9615899920000001,SE.ENR.PRIM.FM.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+63,2013,0.9917200208,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+64,2014,0.9966400266000001,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+65,2015,0.9997500181000001,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+66,2016,0.9983299971,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+67,2017,0.9923400283,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+68,2018,0.9988399744,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+69,2010,78.24,BAR.NOED.15UP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+70,2010,35.18,BAR.NOED.15UP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+71,2010,7.9,BAR.NOED.15UP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+72,2010,47.22,BAR.NOED.15UP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+73,2010,48.03,BAR.NOED.15UP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+74,2010,59.15,BAR.NOED.15UP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+75,2010,6.68,BAR.NOED.15UP.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+76,2010,0.35000000000000003,BAR.NOED.15UP.FE.ZS,USA,United States,North America,High income,Not classified
