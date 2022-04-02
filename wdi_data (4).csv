@@ -1,0 +1,33 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,20.7,SL.TLF.ACTI.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+1,2017,21.91,SL.TLF.ACTI.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+2,2018,22.32,SL.TLF.ACTI.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+3,2019,22.74,SL.TLF.ACTI.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+4,2016,34.59,SL.TLF.ACTI.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+5,2017,37.95,SL.TLF.ACTI.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+6,2018,38.25,SL.TLF.ACTI.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+7,2019,38.48,SL.TLF.ACTI.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+8,2016,69.05,SL.TLF.ACTI.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2017,68.93,SL.TLF.ACTI.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2018,68.78,SL.TLF.ACTI.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2019,68.57,SL.TLF.ACTI.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2016,22.77,SL.TLF.ACTI.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+13,2017,22.45,SL.TLF.ACTI.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+14,2018,22.16,SL.TLF.ACTI.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+15,2019,22.26,SL.TLF.ACTI.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+16,2016,84.34,SL.TLF.ACTI.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+17,2017,84.75,SL.TLF.ACTI.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+18,2018,85.07,SL.TLF.ACTI.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+19,2019,85.3,SL.TLF.ACTI.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+20,2016,24.24,SL.TLF.ACTI.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+21,2017,23.42,SL.TLF.ACTI.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+22,2018,22.62,SL.TLF.ACTI.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+23,2019,22.63,SL.TLF.ACTI.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+24,2016,52.82,SL.TLF.ACTI.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+25,2017,53.89,SL.TLF.ACTI.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+26,2018,53.85,SL.TLF.ACTI.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+27,2019,54.07,SL.TLF.ACTI.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+28,2016,66.29,SL.TLF.ACTI.FE.ZS,USA,United States,North America,High income,Not classified
+29,2017,66.94,SL.TLF.ACTI.FE.ZS,USA,United States,North America,High income,Not classified
+30,2018,67.23,SL.TLF.ACTI.FE.ZS,USA,United States,North America,High income,Not classified
+31,2019,67.87,SL.TLF.ACTI.FE.ZS,USA,United States,North America,High income,Not classified
